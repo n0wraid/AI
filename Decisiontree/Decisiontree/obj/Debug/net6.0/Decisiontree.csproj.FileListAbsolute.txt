@@ -1,0 +1,5 @@
+C:\Users\USER\source\repos\Decisiontree\Decisiontree\obj\Debug\net6.0\Decisiontree.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Decisiontree\Decisiontree\obj\Debug\net6.0\Decisiontree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Decisiontree\Decisiontree\obj\Debug\net6.0\Decisiontree.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Decisiontree\Decisiontree\obj\Debug\net6.0\Decisiontree.AssemblyInfo.cs
+C:\Users\USER\source\repos\Decisiontree\Decisiontree\obj\Debug\net6.0\Decisiontree.csproj.CoreCompileInputs.cache
