@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "XGBoostKZ", "XGBoostKZ\XGBoostKZ.pyproj", "{284BE689-F4FC-40EA-AE8A-657134044ABB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{284BE689-F4FC-40EA-AE8A-657134044ABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{284BE689-F4FC-40EA-AE8A-657134044ABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {996C180C-8AC5-4D5E-9726-B053FAD5BB2A}
+	EndGlobalSection
+EndGlobal
